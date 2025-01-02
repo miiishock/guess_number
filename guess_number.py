@@ -26,3 +26,4 @@ while True:
         break
 # ...выводим сообщение.
 print('Отличная интуиция! Вы угадали число :)')
+print('hop lei lal la lei')
